@@ -1,1 +1,1 @@
-first readme to alx school
+first to alx school
